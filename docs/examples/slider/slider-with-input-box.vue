@@ -18,6 +18,7 @@ const value = ref(0)
 }
 .slider-demo-block .el-slider {
   margin-top: 0;
+  width：100px;
   margin-left: 12px;
 }
 </style>
